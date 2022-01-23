@@ -1,0 +1,22 @@
+{
+  "name": "gitactions",
+  "version": "1.0.0",
+  "description": "Learning how to use Git Actions",
+  "main": "testing.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricKrief/GitActions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricKrief/GitActions/issues"
+  },
+  "homepage": "https://github.com/EricKrief/GitActions#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
